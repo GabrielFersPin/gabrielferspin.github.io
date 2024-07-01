@@ -92,3 +92,11 @@ mermaid: true
 - March:
   - Start to get more knowledge in statistiscs and probability on work.
   - Getting more familiar with connecting databases with visualization tools.
+- April:
+  - Continue to work with data visualization in the Cowroking project.
+- May:
+  - Start work with PowrBi in Windows with the Coworking project.
+  - Start Nodd3r course.
+- June:
+  - Making python exercices in the Nodd3r course.
+  - Making SQL exercices in the Nodd3r course.
