@@ -100,3 +100,10 @@ mermaid: true
 - June:
   - Making python exercices in the Nodd3r course.
   - Making SQL exercices in the Nodd3r course.
+- July
+  - Continue to do some SQL exercises
+- September
+  - Continue to do some SQL exercises
+- August
+  - Finsish the SQL module
+  - Start MongoDB module
