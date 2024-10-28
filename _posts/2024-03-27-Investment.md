@@ -21,6 +21,6 @@ mermaid: true
 
 This project was made to testing web scrapping with Selenium
 
-The goal with this project was to find the best companies to invest in with PER<30, EPS>0, consistent dividends and have their year of ceation after 2005.
+The goal with this project was to find the best companies to invest in with PER<30, EPS>0, consistent dividends and have their year of creation after 2005.
 
 "[GitHub Investment Repository](https://github.com/GabrielFersPin/BestInvestment.git)"
