@@ -102,8 +102,15 @@ mermaid: true
   - Making SQL exercices in the Nodd3r course.
 - July
   - Continue to do some SQL exercises
-- September
-  - Continue to do some SQL exercises
 - August
+  - Continue to do some SQL exercises
+- Septemeber
   - Finsish the SQL module
   - Start MongoDB module
+- October
+  - Made a streamlite app for the FilmAffinity proyect and make a Linkedin post
+  - Finish MongoDB module
+  - Made a LinkedIn post about Sentiment Analysis with TextBlob library
+  - Start Numpy module
+- November
+  -  Stop Nodd3r course
