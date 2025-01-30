@@ -114,9 +114,9 @@ mermaid: true
   - Start Numpy module
 - November
   -  Continue with the Numpy module
-  -  Made some adjusts to the Coworking Space project
 - December
   -  Finish the Numpy Module
+  -  Made some adjustments and improvements to the coworking space project
   -  Start the Pandas module
 - January
   -  Finish The Pandas module
