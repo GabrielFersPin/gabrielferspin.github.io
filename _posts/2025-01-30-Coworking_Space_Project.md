@@ -11,12 +11,12 @@ mermaid: true
 ---
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
-[![GitHub FilmAffinity Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFersPin/FilmAfinnity-Project.git)
+[![GitHub FilmAffinity Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFersPin/Coworking.git)
 
 ## Coworking Space Project
 
 <a href="https://github.com/GabrielFersPin/Coworking.git" target="_blank">
-    <img align="center" src="https://images.pexels.com/photos/12282183/pexels-photo-12282183.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="Oscars statue" height="100" />
+    <img align="center" src="https://thumbs.dreamstime.com/b/coworking-space-illustration-business-people-teamwork-vector-flat-design-office-work-remote-209771418.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" alt="" height="50" />
 </a>
 
 # Coworking Spaces in Madrid
