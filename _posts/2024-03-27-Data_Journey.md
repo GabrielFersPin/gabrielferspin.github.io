@@ -26,14 +26,14 @@ mermaid: true
   - Doing some exercises on Mimo.
 - October:
   - Starting a degree in Data Science and Artificial Intelligence with two subjects: Programming Fundamentals and Professional Skills.
-  - In professional skills, I learn a bit more about storytelling by making presentations.
-  - In Programming Fundamentals, I do some base conversions and start studying Python again.
+  - In terms of professional skills, I learned more about storytelling by making presentations.
+  - I do some base conversions in Programming Fundamentals and start studying Python again.
   - On the Datacamp platform, I start a basic Python course.
   - On Coursera, I'm doing Data Science Methodology.
 - November:
   - I've been studying the third block on Coursera, data science methodology.
   - A bit of Python basics on Datacamp.
-  - I've been able to validate professional skills and programming fundamentals I, so I don't have any subjects enrolled this semester.
+  - I've been able to validate professional skills and programming fundamentals, so I don't have any subjects enrolled this semester.
 - December:
   - End the DataCamp Python Basics course
   - Start an intermediate Python course
@@ -50,17 +50,17 @@ mermaid: true
   - Start Data Analysis with Python on Coursera
 - March:
   - Still in the Data Analysis with Python Course
-  - Making some exercises with SQL databases for the University, connecting some tables and making conclusions
+  - Making some exercises with SQL databases for the University, connecting some tables, and making conclusions
 - April:
-  - Finish the Data Analysis with Python Course
+  - Finish the Data Analysis with the Python Course
   - Start the Data Visualization Course
 - May:
-  - Continue with Data Visualization Course
+  - Continue with the Data Visualization Course
   - Studying for university exams
 - June:
-  - Take 4 exams and passed 2
+  - Take 4 exams and pass 2
 - July:
-  - Finish all the exams and passed 3 of 4
+  - Finish all the exams and pass 3 of 4
   - Failed Numeric Methods, because the exams were too hard for me
 - August
   - Finish Data Visualization Course
@@ -70,27 +70,27 @@ mermaid: true
   - Start Kaggle machine learning course
   - Start an experience course - week of a data scientist (not finished)
 - October
-  - Start the classes in the university
-  - Continuing the intermediate python in Datacamp
+  - Start the classes at the university
+  - Continuing the intermediate Python in Datacamp
   - Trying to understand how a project is made
 - November
   - Start a project with DataCamp about marketing with python
   - Stop the DataCamp project, have to pay the fee
-  - Did some exercises in SQL, Python and Spark
+  - Did some exercises in SQL, Python, and Spark
   - Start doing scrapping with BeautifulSoup
 - December
-  - Did some projects with web scrapping
-  - Start learnig about Docker
-  - Start to visualize some works that I can do for companies.
+  - Did some projects with web scraping
+  - Start learning about Docker
+  - Start to visualize some work that I can do for companies.
 - January
-  - Drop out from college
+  - Drop out of college
   - Try to find some project to do by myself
-  - Start working with a coworking space project
+  - Start working on a coworking space project
 - February:
   - Continue to work on the coworking project
-  - Change all the project to work in my new Ubunutu
+  - Change all the projects to work in my new Ubuntu
 - March:
-  - Start to get more knowledge in statistiscs and probability on work.
+  - Start to get more knowledge in statistics and probability at work.
   - Getting more familiar with connecting databases with visualization tools.
 - April:
   - Continue to work with data visualization in the Cowroking project.
@@ -105,12 +105,19 @@ mermaid: true
 - August
   - Continue to do some SQL exercises
 - Septemeber
-  - Finsish the SQL module
-  - Start MongoDB module
+  - Finish the SQL module
+  - Start the MongoDB module
 - October
-  - Made a streamlite app for the FilmAffinity proyect and make a Linkedin post
+  - Made a Streamlite app for the FilmAffinity project and made a LinkedIn post
   - Finish MongoDB module
   - Made a LinkedIn post about Sentiment Analysis with TextBlob library
   - Start Numpy module
 - November
-  -  Stop Nodd3r course
+  -  Continue with the Numpy module
+  -  Made some adjusts to the Coworking Space project
+- December
+  -  Finish the Numpy Module
+  -  Start the Pandas module
+- January
+  -  Finish The Pandas module
+  -  Start with the Machine Learning module       
