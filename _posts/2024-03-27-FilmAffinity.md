@@ -48,12 +48,12 @@ The primary goal of this project is to:
   
 - **Nominations by Genre**: The analysis showed that the **drama** genre received the highest number of nominations over the years, followed by **action**, **comedy** and **horror**
 
-  ![Nominations by Genre](src/images/nominations_by_genre.png)
+  ![Nominations by Genre](FimlAffinity/src/images/nominations_by_genre.png)
   *Figure 2: Nominations by Genre over the Years*
 
 - **Trend Analysis**: A linear regression analysis was performed to identify trends in nominations by genre. The results indicated an increasing trend in nominations for the **drama** genre and **action**, while **horror** and **comedy** genre showed a decline in nominations.
 
-  ![Regression Analysis](src/images/prediction.png)
+  ![Regression Analysis](FilmAffinity/src/images/prediction.png)
   *Figure 3: Linear Regression of Nominations by Genre*
 
 - **Top Performers**: The analysis identified the top-performing movies based on the number of nominations. For instance, **"As Good As It Gets"** received the most nominations with **10 nominations**, and the actor with the most nominations is **Jack Nicholson** with 18 nominations.
