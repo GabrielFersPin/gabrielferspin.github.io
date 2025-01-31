@@ -12,6 +12,7 @@ mermaid: true
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
 
 ## My journey
+### 2022
 
 - August(08/08)
   - Learning the basics of SQL and Python on Mimo.
@@ -40,6 +41,9 @@ mermaid: true
   - Finish DataCamp free access €300 to continue, maybe next semester.
   - Try to find some dream job in a big company to adapt the skills and be prepared for the interview.
   - Continue intermediate Python course
+
+### 2023
+
 - January:
   - Finish the intermediate Python course on DataCamp.
   - Finish the Python Project or Data Science on Coursera
@@ -82,6 +86,9 @@ mermaid: true
   - Did some projects with web scraping
   - Start learning about Docker
   - Start to visualize some work that I can do for companies.
+
+### 2024
+
 - January
   - Drop out of college
   - Try to find some project to do by myself
@@ -118,6 +125,9 @@ mermaid: true
   -  Finish the Numpy Module
   -  Made some adjustments and improvements to the coworking space project
   -  Start the Pandas module
+
+### 2025
+
 - January
   -  Finish The Pandas module
   -  Start with the Machine Learning module       
