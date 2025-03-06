@@ -130,4 +130,9 @@ mermaid: true
 
 - January
   -  Finish The Pandas module
-  -  Start with the Machine Learning module       
+  -  Start with the Machine Learning module
+- Fabruary
+  -  Finish The Machine Learning module
+  -  Use the Coworking Project as final project and implementing machine learning into this project
+  -  Start to callaborate with a ONG (Generar-ECO)
+- March
