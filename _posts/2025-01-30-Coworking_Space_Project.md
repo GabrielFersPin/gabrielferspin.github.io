@@ -23,10 +23,10 @@ mermaid: true
 
 This project focuses on creating a recommendation system for coworking spaces based on various features such as location, rating, transport facilities, and distance from the center. It includes a comprehensive analysis and prediction system to help users find the best coworking spaces in their preferred city.
 
-📌 **Author:** Gabriel Fernandes Pinheiro  
-🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-pinheiro) | [GitHub](https://github.com/gabriel-pinheiro)
-
-
 
 [[GitHub Coworking Repository](https://github.com/GabrielFersPin/Coworking.git)]
 [[Streamlit Website](https://gabrielferspin-coworking-app-kfmulc.streamlit.app/)]
+
+📌 **Author:** Gabriel Fernandes Pinheiro  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-pinheiro) | [GitHub](https://github.com/gabriel-pinheiro)
+
