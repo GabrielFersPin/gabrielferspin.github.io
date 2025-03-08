@@ -18,7 +18,7 @@ platforms:
   #
    - type: Linkedin
      icon: "fab fa-linkedin"
-     link: "www.linkedin.com/in/gabriel-fernandes-pinheiro"
+     link: "https://www.linkedin.com/in/gabriel-fernandes-pinheiro/"
   #
   # - type: Weibo
   #   icon: "fab fa-weibo"
