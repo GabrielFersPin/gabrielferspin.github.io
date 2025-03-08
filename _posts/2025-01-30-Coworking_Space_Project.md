@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 ---
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-fernandes-pinheiro/)
 
 [![GitHub FilmAffinity Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFersPin/Coworking.git)
 
@@ -28,5 +28,6 @@ This project focuses on creating a recommendation system for coworking spaces ba
 [[Streamlit Website](https://gabrielferspin-coworking-app-kfmulc.streamlit.app/)]
 
 📌 **Author:** Gabriel Fernandes Pinheiro  
-🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-pinheiro) | [GitHub](https://github.com/gabriel-pinheiro)
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-fernandes-pinheiro) 
+🔗 [GitHub](https://github.com/gabriel-pinheiro)
 
