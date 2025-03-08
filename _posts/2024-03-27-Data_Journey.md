@@ -136,3 +136,17 @@ mermaid: true
   -  Use the Coworking Project as final project and implementing machine learning into this project
   -  Start to callaborate with a ONG (Generar-ECO)
 - March
+
+
+| Strengths (Internal, Positive)          | Weaknesses (Internal, Negative)          |
+|-----------------------------------------|-----------------------------------------|
+| Technical Skills (Python, SQL, MongoDB, PowerBI, ML) | Falta de experiencia en empresas |
+| Experiencia con datos reales (Películas, Coworking) | Necesidad de mejorar los proyectos  |
+| Mentalidad Autodidacta | Sin títulos en educación formal |
+| Capacidad de Adaptación |  |
+
+| Opportunities (External, Positive)     | Threats (External, Negative)             |
+|-----------------------------------------|-----------------------------------------|
+| Crecimiento del sector de Data Science | Competencia en el mercado |
+| Proyectos personales como Carta de Presentación | Requisitos estrictos en algunas ofertas |
+| Interés en I.A |  |
