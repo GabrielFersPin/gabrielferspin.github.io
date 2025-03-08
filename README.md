@@ -1,49 +1,44 @@
-# Chirpy Starter
+# 🌟 Gabriel Fernandes Pinheiro - Data Science Portfolio
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Welcome to my portfolio! I'm an aspiring **Data Scientist** with a passion for extracting insights from data, building impactful projects, and continuously improving my skills.  
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## 🚀 About Me  
+- 🔍 **Curious & Analytical**: I enjoy exploring data to uncover patterns and make data-driven decisions.  
+- 💡 **Continuous Learner**: I update my **data journey** every month since 2022, documenting my progress in the field.  
+- 🛠️ **Tech Stack**: Python | SQL | MongoDB | Power BI | Machine Learning | Streamlit | Web Scraping | Linux Enthusiast  
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+---
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 📌 Featured Projects  
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+### 1️⃣ **[Coworking Space Analysis](#)**  
+🔹 **Goal**: Evaluated sentiment analysis of Google Maps reviews to understand the coworking market in Spain.  
+🔹 **Tech Used**: Web Scraping (Google Maps API), Power BI, Regression Analysis.  
+🔹 **Key Insights**: Correlation between coworking prices, location, and demographics.  
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### 2️⃣ **[Film Awards & Genre Analysis](#)**  
+🔹 **Goal**: Analyzed top movie genres and their Oscar nominations over time.  
+🔹 **Tech Used**: Web Scraping (FilmAffinity & Wikipedia), Pandas, Data Visualization.  
+🔹 **Key Insights**: Prediction model for future Oscar nominations.  
 
-## Prerequisites
+### 3️⃣ **[More Projects](#)**  
+Check out my [GitHub Repositories](https://github.com/your-username) for more!  
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+---
 
-## Installation
+## 📖 My Data Journey  
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+I have been documenting my **learning journey in Data Science** every month since 2022. You can follow my progress and key takeaways here: [My Data Journey](#).  
 
-Then clone it to your local machine and run:
+---
 
-```console
-$ bundle
-```
+## 📬 Connect with Me  
 
-## Usage
+- **GitHub**: [github.com/your-username](https://github.com/your-username)  
+- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
+- **Email**: your-email@example.com  
 
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
+Let’s collaborate and build amazing data projects together! 🚀  
 
 ## License
 
