@@ -34,9 +34,9 @@ I have been documenting my **learning journey in Data Science** every month sinc
 
 ## 📬 Connect with Me  
 
-- **GitHub**: [github.com/your-username](https://github.com/your-username)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **Email**: your-email@example.com  
+- **GitHub**: [github.com/your-username](https://github.com/GabrielFersPin)  
+- **LinkedIn**: [linkedin.com/in/your-profile](www.linkedin.com/in/gabriel-fernandes-pinheiro)  
+- **Email**: gabrielfelipef.23@gmail.com  
 
 Let’s collaborate and build amazing data projects together! 🚀  
 
