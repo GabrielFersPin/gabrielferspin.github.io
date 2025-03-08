@@ -9,7 +9,7 @@ pin: true
 math: true
 mermaid: true
 ---
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-fernandes-pinheiro/))
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gabriel-fernandes-pinheiro/)
 
 [![GitHub FilmAffinity Repository](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielFersPin/FilmAfinnity-Project.git)
 
