@@ -18,8 +18,7 @@ Welcome to my portfolio! I'm an aspiring **Data Scientist** with a passion for e
 
 ### 2️⃣ **[Film Awards & Genre Analysis](#)**  
 🔹 **Goal**: Analyzed top movie genres and their Oscar nominations over time.  
-🔹 **Tech Used**: Web Scraping (FilmAffinity & Wikipedia), Pandas, Data Visualization.  
-🔹 **Key Insights**: Prediction model for future Oscar nominations.  
+🔹 **Tech Used**: Web Scraping (FilmAffinity & Wikipedia), Pandas, Data Visualization.    
 
 ### 3️⃣ **[More Projects](#)**  
 Check out my [GitHub Repositories](https://github.com/your-username) for more!  
