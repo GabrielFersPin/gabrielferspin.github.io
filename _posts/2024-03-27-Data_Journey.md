@@ -138,6 +138,8 @@ mermaid: true
   -  Use the Coworking Project as final project and implementing machine learning into this project
   -  Start to callaborate with a ONG (Generar-ECO)
 - March
+  -  Start Studiyng depp leaning
+  -  Continue to working on the final project
 
 
 | Strengths (Internal, Positive)          | Weaknesses (Internal, Negative)          |
