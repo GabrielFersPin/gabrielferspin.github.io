@@ -27,7 +27,7 @@ Check out my [GitHub Repositories](https://github.com/your-username) for more!
 
 ## 📖 My Data Journey  
 
-I have been documenting my **learning journey in Data Science** every month since 2022. You can follow my progress and key takeaways here: [My Data Journey](#).  
+I have been documenting my **learning journey in Data Science** every month since 2022. You can follow my progress and key takeaways here: [My Data Journey](https://github.com/GabrielFersPin/).  
 
 ---
 
