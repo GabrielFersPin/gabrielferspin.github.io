@@ -140,6 +140,11 @@ mermaid: true
 - March
   -  Start Studiyng depp leaning
   -  Continue to working on the final project
+- April
+  -  Finish the final project
+  -  Continue to studiyng deep learning
+- May
+  -  Build an app for manage gamifyng tasks and habits 
 
 
 | Strengths (Internal, Positive)          | Weaknesses (Internal, Negative)          |
