@@ -144,18 +144,10 @@ mermaid: true
   -  Finish the final project
   -  Continue to studiyng deep learning
 - May
-  -  Build an app for manage gamifyng tasks and habits 
-
-
-| Strengths (Internal, Positive)          | Weaknesses (Internal, Negative)          |
-|-----------------------------------------|-----------------------------------------|
-| Technical Skills (Python, SQL, MongoDB, PowerBI, ML) | Falta de experiencia en empresas |
-| Experiencia con datos reales (Películas, Coworking) | Necesidad de mejorar los proyectos  |
-| Mentalidad Autodidacta | Sin títulos en educación formal |
-| Capacidad de Adaptación |  |
-
-| Opportunities (External, Positive)     | Threats (External, Negative)             |
-|-----------------------------------------|-----------------------------------------|
-| Crecimiento del sector de Data Science | Competencia en el mercado |
-| Proyectos personales como Carta de Presentación | Requisitos estrictos en algunas ofertas |
-| Interés en I.A |  |
+  -  Build an app for manage gamifyng tasks and habits
+- June
+  -  Continue improving the InnerLevel app putting some game feature
+- July
+  -  Presentation of my final proyect
+  -  Continue Learning Deep Learning
+  - Improving the InnerLevel app
